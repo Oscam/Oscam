@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [Oscar Muguna]
 
-<!--
-**Oscam/Oscam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning AI at We Can Academy.
+- I'm interested in AI and network automation.
+- I'm looking to collaborate on open-source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- ML, Gen AI, Network scripting, Cyber Security Cloud computing-Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- GPON OLT integration with cloud](link) — short description
+
+## How to Reach Me
+- Email: mugusca@gmail.com
+- LinkedIn: linkedin.com/in/oscar-muguna
+
+
+
+Its me adding my profile to Github in a README
