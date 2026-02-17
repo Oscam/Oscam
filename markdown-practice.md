@@ -7,7 +7,7 @@
 
 # Exercise 3 — Links
 ### [Click here to view my profile](https://github.com/Oscam)
-### To view my favourite LLM, [Click Here](https://chatgpt.com)
+### To view my favourite LLM GPT, [Click Here](https://chatgpt.com)
 # Exercise 4 — Lists
 ### Below is a list of my to study plan:
 - AI
@@ -24,8 +24,10 @@
 # Exercise 5 — Table: 
 | Tool  | Purpose    | Link  |
 |---------|-----------|----------|
-| Alice   | Developer | Active   |
-| Bob     | Designer  | Active   |
-| Charlie | Tester    | On leave |
+| ChatGPT  | Research | [ChatGPT](https://chatgpt.com)   |
+| Canva     | Designer  | [*canva*](https://www.canva.com/en_gb/)   |
+
+# Exercise 6 - Task list:
+
 
 
