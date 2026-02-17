@@ -28,11 +28,11 @@
 | Canva     | Designer  | [*canva*](https://www.canva.com/en_gb/)   |
 
 # Exercise 6 - Task list:
-### Below is a list of accomplished tasks(checked) and ongoing tasks:
+### Below is a list of accomplished tasks(checked) and ongoing tasks (unchecked):
 - [x] Mikrotik $ OLT configuration
 - [x] Desktop Support
-- [] Network Automation
-- [] Artificial Intelligence
+- [ ] Network Automation
+- [ ] Artificial Intelligence
 
 # Exercise 7 — Code block
 ```java
