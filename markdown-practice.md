@@ -17,9 +17,9 @@
     - Powershell
     - Windows CLI
 ### Below are steps to make a commit in git:
-1. Stage a file by using the command *add file.\**
-2. Step 2: Commit the file *commit -m "am adding a file"*
-3. Step 3: Push the file *push*
+1. Stage a file by using the command *git add .*
+2. Step 2: Commit the file *git commit -m "am adding a file"*
+3. Step 3: Push the file *git push*
 
 # Exercise 5 — Table: 
 | Tool  | Purpose    | Link  |
