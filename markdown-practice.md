@@ -6,8 +6,8 @@
 **I am** now *learning* `Artificial Intelligence`.
 
 # Exercise 3 — Links
-[Click here to view my profile] (https://github.com/Oscam)
-To view my favourite LLM, [Click Here] (https://chatgpt.com)
+[Click here to view my profile](https://github.com/Oscam)
+To view my favourite LLM, [Click Here](https://chatgpt.com)
 # Exercise 4 — Lists
 Below is a list of my to study plan:
 - AI
