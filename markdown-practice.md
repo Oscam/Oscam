@@ -28,6 +28,21 @@
 | Canva     | Designer  | [*canva*](https://www.canva.com/en_gb/)   |
 
 # Exercise 6 - Task list:
+### Below is a list of accomplished tasks(checked) and ongoing tasks:
+- [x] Mikrotik $ OLT configuration
+- [x] Desktop Support
+- [] Network Automation
+- [] Artificial Intelligence
 
+# Exercise 7 — Code block
+```java
+printl("A java string");
+```
+
+# Exercise 8 — Blockquote
+### Piece of advise
+> Work in silence, let results speak for themselves
+### A chinese quote
+> A journey of a thousand miles begins with one step
 
 
