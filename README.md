@@ -10,7 +10,7 @@
 - ML, Gen AI, Network scripting, Cyber Security Cloud computing-Azure
 
 ## Current Projects
-- GPON OLT integration with cloud](link) — short description
+- GPON OLT integration with cloud
 
 ## How to Reach Me
 - Email: mugusca@gmail.com
